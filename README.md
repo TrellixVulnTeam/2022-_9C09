@@ -1,0 +1,13 @@
+# 2022-
+包含GNCD以及我们idea测试的实验数据和代码
+
+bash_scripts用于驱动py文件，
+data是原版GNCD里的数据集文件，
+data_loader是为了适应Office31从我们实验室第一版SCDA中修改得到的，
+methods是原版GNCD中核心代码，
+models是一些基础模型的调用，
+project_utils是原版GNCD中的组件，
+utils是我们实验室第一版SCDA中的组件修改得到的，
+config.py是参数控制，
+gncd.md是我写的一点点笔记哈哈哈哈哈，
+trainer_office31.py是实验过程中临时写的测试office31文件，根据原版代码进行修改
